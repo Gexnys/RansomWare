@@ -97,4 +97,5 @@ This software is designed exclusively for game anti-cheat, malware (virus) preve
 *Not software. A controlled eliminator.*
 
 *The end of malicious software.*
-© Gexnys
+ 
+# © Gexnys
